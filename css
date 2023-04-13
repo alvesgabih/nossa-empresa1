@@ -1,4 +1,15 @@
-/ * Estilo da Moda * /
+/* Estilo da Moda */
 
 * {
-    
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+{
+
+    Body {
+    font-family: Arial, sans-serif;
+    Fent-size: 16px;
+    Line-height: 1.5;
+    color: #333
+    }
+    /* 
