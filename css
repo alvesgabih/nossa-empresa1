@@ -12,4 +12,27 @@
     Line-height: 1.5;
     color: #333
     }
-    /* 
+    
+    /* Estilos da pagina principal */
+
+    header 
+    backgroud-color: afff;
+    padding: 20px;
+    corder-bottom: 1px solid #ccc;
+   }
+
+   .menu {
+     display: flex;
+     Justify-content: space-between;
+     align-items: center;
+   } 
+
+   .logo {
+     font-sizer: 24xp;
+     font-weight: bold;
+     text-decoration: nome;
+     color:#333;
+   }
+
+   .nav {
+     display: flex 
