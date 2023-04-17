@@ -50,3 +50,9 @@
 
    .nav_link:hover {
      color: #f00;
+   }
+
+   /*estilos para dispositivos moveis */
+
+   .media (max-width; 768px)  {
+      
