@@ -35,4 +35,18 @@
    }
 
    .nav {
-     display: flex 
+     dispaly: fleyy;
+   }
+
+   .nav_item{
+     margun-right: 20xp;
+   }
+
+   .nav_link { 
+      text-decoration: nome;
+      color: #333
+      transition: color 0.3s ease
+   }
+
+   .nav_link:hover {
+     color: #f00;
