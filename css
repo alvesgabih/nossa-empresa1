@@ -1,14 +1,18 @@
-{display: flex;
+{ 
+ display: flex;
 flex-direction: row;
 align-items: flex-start;
 padding: 1043px 10px 10px;
 gap: 10px;
 isolation: isolate;
+}
 
+{
 position: relative;
 width: 1398px;
 height: 1001px;
 }
+
 background: #FFFFFF;
 /* Estilo da Moda */
 
