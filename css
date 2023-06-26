@@ -50,7 +50,17 @@
 
    /*estilos para dispositivos moveis */
 
-    .media: max-width: 768px; {
+    .media: max-width: 768px; { 
       .menu
-      flex-
+      flex-diretion: coluna;
+      align-items: flex :start
     }
+     .nav {
+       margin-top: 20px;
+
+     }
+
+       .nav item {
+        margin-rught: 0;
+        margin-bottom: 10xp;
+       }
