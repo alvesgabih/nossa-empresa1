@@ -38,7 +38,19 @@
     display: fleyy;
 }
   
-  .nav Link {
+  .nav link {
      text-decoration: nome;
      color: #333
+     transition: color 0 3s ease  
   }
+
+   .nav link :hover{ 
+     stop-color: #900
+   }
+
+   /*estilos para dispositivos moveis */
+
+    .media: max-width: 768px; {
+      .menu
+      flex-
+    }
