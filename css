@@ -1,11 +1,22 @@
  /* Estilo da MOda */
 
  * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
  }
 
-      body {
-      font-family: Arial, sans-serif;
-      }
+ body {
+   font-family: Arial, sans-serif;
+   Fent-size: 16px;
+   Line-height: 1.5;
+   color: #333
+ }
+
+ /* EStilos da pagina principal */
+
+ header {
+ backgroud color: afff;
+ padding: 20px;
+ corder bottom: 1px solid #ccc;
+ }
