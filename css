@@ -1,87 +1,11 @@
-{ 
- display: flex;
-flex-direction: row;
-align-items: flex-start;
-padding: 1043px 10px 10px;
-gap: 10px;
-isolation: isolate;
-}
+ /* Estilo da MOda */
 
-{
-position: relative;
-width: 1398px;
-height: 1001px;
-}
+ * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ }
 
-background: #FFFFFF;
-/* Estilo da Moda */
-
-* {
-   box-sizing: border-box;
-   margin: 15;
-   padding: 15;
-{
-
-    Body {
-    font-family: Arial, sans-serif;
-    Fent-size: 16px;
-    Line-height: 1.5;
-    color: #333
-    }
-    
-    /* Estilos da pagina principal */
-
-    header 
-    backgroud-color: afff;
-    padding: 20px;
-    corder-bottom: 1px solid #ccc;
-   }
-
-   .menu {
-     display: flex;
-     Justify-content: space-between;
-     align-items: center;
-   } 
-
-   .logo {
-     font-sizer: 24xp;
-     font-weight: bold;
-     text-decoration: nome;
-     color:#333;
-   }
-
-   .nav {
-     dispaly: fleyy;
-   }
-
-   .nav_item{
-     margun-right: 20xp;
-   }
-
-   .nav_link { 
-      text-decoration: nome;
-      color: #333
-      transition: color 0.3s ease
-   }
-
-   .nav_link:hover {
-     color: #f00;
-   }
-
-   /*estilos para dispositivos moveis */
-
-   .media (max-width; 768px)  {
-      .menu { 
-       flex-direction: column;
-       align-items: flex-start;
-       } 
-
-        .nav { 
-          margin-top: 20px;
-        } 
-        
-          .nav_item { 
-            margin-rught: 0;
-            margin-bottom: 10xp;
-        }
-     
+      body {
+      font-family: Arial, sans-serif;
+      }
