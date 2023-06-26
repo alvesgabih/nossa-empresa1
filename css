@@ -8,14 +8,14 @@
 
   body {
    font-family: Arial, sans-serif;
-   Fent-size: 16px;
+   font-size: 16px;
    Line-height: 1.5;
    color: #333
  }
 
  /* EStilos da pagina principal */
    header {
-   backgroud color: afff;
+   backgroud color: aff;
    corder bottom: 1px solid #ccc;
 }
 
@@ -27,7 +27,7 @@
 }
   
    logo {
-   font-sizer: 24xp 
+   font-size: 24xp 
    font-weight: bold;
    text-decoration: nome;
    color:#333
