@@ -6,7 +6,7 @@
    padding: 0;
  }
 
- body {
+  body {
    font-family: Arial, sans-serif;
    Fent-size: 16px;
    Line-height: 1.5;
@@ -14,9 +14,24 @@
  }
 
  /* EStilos da pagina principal */
+   header {
+   backgroud color: afff;
+   corder bottom: 1px solid #ccc;
+}
 
- header {
- backgroud color: afff;
- padding: 20px;
- corder bottom: 1px solid #ccc;
- }
+   menu {
+   display: flex;
+   Justify-content: space-between; 
+   align-items: center; 
+   
+}
+  
+   logo {
+   font-sizer: 24xp 
+   font-weight: bold;
+   text-decoration: nome;
+   color:#333
+
+   }
+
+   
