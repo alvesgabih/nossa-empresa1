@@ -55,14 +55,13 @@
     .media max-width { 
       .menu
       flex-diretion coluna
-      align-items: flex :start
-    }
-     .nav {
-       margin-top: 20px;
-
+      align-items flex :start
+    
+     .nav{ 
+       -webkit-margin-bottom-collapse: 20xp;
      }
 
-       .nav item {
-        margin-rught: 0;
+       .nav item {   
+        margin-right 0;
         margin-bottom: 10xp;
-       }
+      }
