@@ -15,9 +15,10 @@
 
  /* EStilos da pagina principal */
    header {
-   backgroud color: aff;
-   corder bottom: 1px solid #ccc;
-}
+   background: color #333 
+   corder bottom  1px solid #ccc;
+
+
 
    menu {
    display: flex;
@@ -28,11 +29,12 @@
   
    logo {
    font-size: 24xp 
-   font-weight: bold;
+   font-weight bold;
    text-decoration: nome;
-   color:#333
+   color #333
+  
+  
 
-}
 
   .nav {
     display: fleyy;
@@ -41,7 +43,7 @@
   .nav link {
      text-decoration: nome;
      color: #333
-     transition: color 0 3s ease  
+     transition color 0 3s ease  
   }
 
    .nav link :hover{ 
@@ -50,9 +52,9 @@
 
    /*estilos para dispositivos moveis */
 
-    .media: max-width: 768px; { 
+    .media max-width { 
       .menu
-      flex-diretion: coluna;
+      flex-diretion coluna
       align-items: flex :start
     }
      .nav {
