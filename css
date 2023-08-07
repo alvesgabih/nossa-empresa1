@@ -42,12 +42,12 @@
   
   .nav link {
      text-decoration: nome;
-     color: #333
+     color: #db0de2
      transition color 0 3s ease  
   }
 
    .nav link :hover{ 
-     stop-color: #900
+     stop-color: rgb(241, 15, 15)
    }
 
    /*estilos para dispositivos moveis */
