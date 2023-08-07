@@ -15,8 +15,8 @@
 
  /* EStilos da pagina principal */
    header {
-   background: color #333 
-   corder bottom  1px solid #ccc;
+   background: color #56bdb4 
+   corder bottom  1px solid #bf88d4;
 
 
 
@@ -56,13 +56,9 @@
       .menu
       flex-diretion coluna
       align-items flex :start
-    
-     .nav{ 
-       -webkit-margin-bottom-collapse: 20xp;
-     }
+    }
 
        .nav item {   
         margin-right: 0%;
         margin-bottom: 10xp;
-        
-    }
+       }
